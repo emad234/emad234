@@ -8,7 +8,7 @@ I come from competitive programming and I'm working my way into ML systems and r
 
 - **IOI Honorable Mention**, USACO Gold, and BOI Bronze, representing Saudi Arabia
 - **6th place, ICPC SoCal Regionals** as a first-year team (UCSD)
-- Co-founded **MRB3**, Saudi Arabia's first competitive programming community (650+ members), and the **Saudi Olympiad in Informatics**
+- Co-founder and Scientific committee member of the **Saudi Olympiad in Informatics**
 - Currently building **Lockin**, a social focus-tracking app (React Native + Supabase)
 - Now learning: transformers from scratch in PyTorch, and OCaml
 
