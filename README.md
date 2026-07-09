@@ -18,8 +18,7 @@ I come from competitive programming and I'm working my way into ML systems and r
 | --- | --- |
 | [competitive-programming](https://github.com/emad234/competitive-programming) | Curated solutions and writeups from 5 years of olympiad training |
 | [gpt-from-scratch](https://github.com/emad234/gpt-from-scratch) | A GPT built from first principles: tokenizer, attention, training loop |
-| [carbon-emissions-ai](https://github.com/emad234/carbon-emissions-ai) | National olympiad research: GA + DNN for factory emissions optimization |
-| [traffic-sign-recognition](https://github.com/emad234/traffic-sign-recognition) | Real-time CV classifier, built through Oxford's AI programme |
+| [carbon-emissions-ai](https://github.com/emad234/carbon-emissions-ai) | National olympiad research: Genetic Algorithm for factory emissions optimization |
 
 ## Reach me
 
